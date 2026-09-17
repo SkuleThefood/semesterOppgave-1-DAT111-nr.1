@@ -1,0 +1,37 @@
+        #text {
+            position: absolute;
+            background-color: rgb(199, 199, 199); 
+            width: 500px; 
+            top: 100px;
+            left: 150px;
+            padding: 10px;
+            text-align: center;
+        }
+        #oversiktTabellText {
+            position: absolute;
+            background-color: rgb(199, 199, 199);
+            width: 480px;
+            top: 300px;
+            left: 160px;
+            padding: 10px;
+            text-align: center;
+        }
+        #oversiktTabell {
+            position: absolute;
+            width: 500px;
+            top: 380px;
+            left: 160px;
+        }
+        td {
+            justify-content: center;
+            align-content: center;
+            border: 1px solid black;
+            height: 30px;
+            width: 1000px;
+        }
+        table {
+            margin: 0px;
+        }
+        footer {
+            bottom: -200px;
+        }

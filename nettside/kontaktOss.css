@@ -1,0 +1,33 @@
+        #container {
+            margin: 20px;
+            position: absolute;
+            display: grid;
+            grid-template-columns: auto auto auto;
+            padding: 10px;
+            gap: 100px;
+            row-gap: 30px;
+        }
+        #container div {
+            background-color: #f1f1f1;
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+            height: 250px;
+        }
+        #bilde {
+            width: 150px;
+            height: 150px;
+            background-color: rgb(66, 66, 66);
+            border: 5px solid black;
+        }
+        #kart {
+            background-color: greenyellow;
+            position: absolute;
+            left: 150px;
+            top: 700px;
+            height: 300px;
+            width: 500px;
+        }
+        footer {
+            bottom: -700px;
+        }

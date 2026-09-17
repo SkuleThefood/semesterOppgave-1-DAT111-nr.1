@@ -1,0 +1,53 @@
+        body {
+            margin: 0;
+        }
+        html {
+            height: 100%;
+            box-sizing: border-box;
+        }
+        header {
+            background-color: rgb(186, 186, 186);
+            width: 100%;
+            height: 70px;
+        }
+        #home {
+            top: 22px; 
+            left: 15px; 
+            position: absolute;
+        }
+        #link {
+            color: black; 
+            text-decoration-line: none;
+        }
+        #omProjektet {
+            top: 22px; 
+            left: 400px; 
+            position: absolute;
+        }
+        #bolig {
+            top: 22px; 
+            left: 550px; 
+            position: absolute;
+        }
+        #oppussing {
+            top: 22px; 
+            left: 650px; 
+            position: absolute;
+        }
+        #kontaktOss {
+            top: 22px; 
+            left: 800px; 
+            position: absolute;
+        }
+        footer {
+            width: 100%;
+            height: 80px;
+            position: absolute;
+            
+            background-color: rgb(186, 186, 186);
+        }
+        #footerText {
+            position: absolute;
+            left: 30px;
+            top: 15px;
+        }
