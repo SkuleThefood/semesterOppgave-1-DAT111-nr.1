@@ -12,7 +12,8 @@
             border: 1px solid black;
             padding: 10px;
             text-align: center;
-            height: 250px;
+            height: 300px;
+            width: 180px;
         }
         #bildeAvBolig {
             width: 150px;
@@ -27,5 +28,5 @@
             background-color: orange;
         }
         footer {
-            bottom: -400px;
+            bottom: -500px;
         }
