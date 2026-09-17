@@ -1,4 +1,4 @@
-        #text {
+        #tekst {
             position: absolute;
             background-color: rgb(199, 199, 199); 
             width: 500px; 
@@ -7,7 +7,7 @@
             padding: 10px;
             text-align: center;
         }
-        #oversiktTabellText {
+        #oversiktTabellTekst {
             position: absolute;
             background-color: rgb(199, 199, 199);
             width: 480px;

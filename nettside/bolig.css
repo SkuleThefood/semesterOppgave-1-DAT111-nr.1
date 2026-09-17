@@ -2,6 +2,7 @@
             margin: 20px;
             position: absolute;
             left: 100px;
+            top: 150px;
             display: grid;
             grid-template-columns: auto auto auto;
             padding: 10px;
@@ -28,5 +29,15 @@
             background-color: orange;
         }
         footer {
-            bottom: -500px;
+            bottom: -600px;
+        }
+        #tekst {
+            position: absolute;
+            width: 200px;
+            padding-bottom: 10px;
+            padding-left: 50px;
+            height: 50px;
+            background-color: rgb(224, 224, 224);
+            left: 300px;
+            top: 100px;
         }
